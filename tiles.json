@@ -1,5 +1,5 @@
 {
-    "tilejson": "3.0.0",
+    "tilejson": "2.0.0",
     "id": "gsi-bvmap",
     "name": "GSI-BinaryVectorMap",
     "format": "pbf",
